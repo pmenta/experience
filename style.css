@@ -191,26 +191,29 @@ footer a {
     .main__div {
         margin: 0;
         text-align: center;
-        height: 100vh;
+        height: 100%;
     }
     .main__div h1 {
-        letter-spacing: 15px;
+        letter-spacing: 10px;
         font-weight: 100;
         color: #fff;
-        font-size: 2.5em;
-        margin-top: 150px;
+        font-size: 2em;
+        margin: auto;
+        width: 85%;
+        margin-top: 110px;
     }
     .main__div h2 {
         color: rgba(255, 255, 255, 0.801);
         font-weight: 100;
         font-size: 18px;
-        width: 350px;
+        width: 85%;
         margin: auto;
-        margin-top: 100px;
+        margin-top: 70px;
     }
     .main__div input {
         color: white;
         margin-top: 40px;
+        margin-bottom: 25px;
         outline: none;
         background: none;
         border: 1px solid white;
@@ -334,7 +337,7 @@ footer a {
     }
     .contact__us input {
         height: 50px;
-        width: 350px;
+        width: 85%;
         margin: auto;
     }
     #input__button {
